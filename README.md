@@ -13,3 +13,7 @@ Then you have to have the postgresql
 1. Create the database TaskTracker
 2. Run the sql command
 3. Modify the connectionstring in appsettings.json file
+
+
+P.S.
+The repo is resubmitted for some reasons
